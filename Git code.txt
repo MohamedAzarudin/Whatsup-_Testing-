@@ -11,3 +11,5 @@ Second class
 GITHUB is a web-based hosting service for software code .
 provides a version control using GIT.
 it is a collabrative tool which helps to multiple users to work on a single project without much difficulties.
+Adding a branches from master .
+
