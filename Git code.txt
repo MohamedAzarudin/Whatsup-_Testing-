@@ -1,0 +1,12 @@
+what is a git ?
+Git is a version control system .
+Git is a terminal based  VS GITHUB -web based application.
+terminologies:
+repositories
+a folder contains all files to related to project .
+Read me file .
+commit-save .
+Second class 
+GITHUB is a web-based hosting service for software code .
+provides a version control using GIT.
+it is a collabrative tool which helps to multiple users to work on a single project without much difficulties.
